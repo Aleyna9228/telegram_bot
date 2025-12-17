@@ -1,3 +1,4 @@
+
 # 🏥 Telegram Patient Monitoring Bot
 
 A **console-free Telegram bot application** built using **Python** and **Object-Oriented Programming (OOP)** principles.  
@@ -95,10 +96,15 @@ You can enter your vital signs using the following commands:
 
 
 ===== Patient Status =====
+
 ID: 123456789
+
 Sugar: 90
+
 Pressure: 120
+
 Fever: 38
+
 =========================
 
 Technologies Used
